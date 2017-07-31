@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="extjsPanel:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/extjsPanel_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="extjsPanel/web/Web" />
+    </root>
+  </artifact>
+</component>
